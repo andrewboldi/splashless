@@ -1,5 +1,18 @@
-
-# Beads / Dolt files (added by bd init)
-.dolt/
-*.db
-.beads-credential-key
+target/
+.venv*/
+__pycache__/
+*.pyc
+out/
+frames/
+*_frames/
+*.bin
+*.npz
+*.blend1
+blender_cache*/
+cache_fluid*/
+papers/*.pdf
+media/*.png
+!media/keep/
+results/raw/
+*.stl.bak
+.DS_Store
