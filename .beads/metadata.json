@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "water",
+  "project_id": "57dff7bb-cb3f-477f-974c-bb016f23a9e3"
+}
